@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Sanches Meirelles</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://felipesmeirellesdev.vercel.app/](https://felipesmeirellesdev.vercel.app/)
 
