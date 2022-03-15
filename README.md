@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://felipesmeirellesdev.vercel.app/](https://felipesmeirellesdev.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React and Redux.**
+- 💬 Ask me about **JavaScript, React, SQL, Node.js.**
 
 - 📫 How to reach me **sanchesmeirelles@gmail.com**
 
