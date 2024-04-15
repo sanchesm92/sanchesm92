@@ -20,4 +20,3 @@
 <a href="https://instagram.com/sanchesm92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchesm92" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchesm92&show_icons=true&locale=en" alt="sanchesm92" /></p>
